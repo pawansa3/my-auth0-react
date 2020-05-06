@@ -1,0 +1,5 @@
+{
+  "domain": "dev-pks.auth0.com",
+  "clientId": "bzpDVZBtvoOsSrZzK40s7vSsjMswHQ8y",
+  "audience": "http://localhost:8000"
+}
